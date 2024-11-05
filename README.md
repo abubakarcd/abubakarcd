@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on **Blockchain and Web3 applications**<br>- 🌱 I’m exploring **ICP (Internet Computer Protocol)** and **Motoko**<br>- 💬 Ask me about **JavaScript, Node.js, Express, and PostgreSQL**<br>- 📫 How to reach me: abubakarch804@gmail.com
+ 🔭 I’m currently working on **Full stack web development & Blockchain and Web3 applications**<br>- 🌱 I’m exploring **ICP (Internet Computer Protocol)** and **Motoko**<br>- 💬 Ask me about **JavaScript, Node.js, Express, and PostgreSQL**<br>- 📫 How to reach me: abubakarch804@gmail.com
 
 
 ## 🌐 Socials:

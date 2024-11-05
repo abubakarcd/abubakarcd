@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Muhammad Abubakar, a full stack web developer and blockchain developer.
 - 👀 My expertise include working with
--      >JavaScript
+- --- ### :hammer_and_wrench: JavaScript
+-      JavaScript
        >JQuery
       >Node js
        >Express

@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on **Full stack web development & Cloud Computing**<br>- 🌱 I’m exploring **Devops** and **Cloud Computing**<br>- 💬 Ask me about **JavaScript, Node.js, Express, PostgreSQL, AWS , Cloud computing, Maven, Jenkins**<br>- 📫 How to reach me: abubakarch804@gmail.com
+ 🔭 I’m currently working on **Full stack web development & Cloud Computing**<br>- 🌱 I’m exploring **Devops** and **Cloud Computing**<br>- 💬 Ask me about **JavaScript, Node.js, Express, PostgreSQL, AWS , Cloud computing, Maven, Jenkins**<br>- 📫 How to reach me: abubakarch804@gmail.com  Portfolio: https://bkportfolio.netlify.app/
 
 
 ## 🌐 Socials:

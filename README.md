@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bakarch) [![Portfolio](https://img.shields.io/badge/Website-%231E90FF.svg?logo=google-chrome&logoColor=white)]((https://abubakarcd.github.io/my_portfolio/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bakarch) 
 
 
 # 💻 Tech Stack:

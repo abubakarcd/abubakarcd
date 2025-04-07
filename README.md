@@ -1,9 +1,9 @@
 # 💫 About Me:
- 🔭 I’m currently working on **Full stack web development & Cloud Computing**<br>- 🌱 I’m exploring **Devops** and **Cloud Computing**<br>- 💬 Ask me about **JavaScript, Node.js, Express, PostgreSQL, AWS , Cloud computing, Maven, Jenkins**<br>- 📫 How to reach me: abubakarch804@gmail.com  Portfolio: https://bkportfolio.netlify.app/
+ 🔭 I’m currently working on **Full stack web development & Cloud Computing**<br>- 🌱 I’m exploring **Devops** and **Cloud Computing**<br>- 💬 Ask me about **JavaScript, Node.js, Express, PostgreSQL, AWS , Cloud computing, Maven, Jenkins**<br>- 📫 How to reach me: abubakarch804@gmail.com  Portfolio:(https://abubakarcd.github.io/my_portfolio/)
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]((https://www.facebook.com/abubakarch6/)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]((https://www.instagram.com/abu__bakarch/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bakarch) [![Portfolio](https://img.shields.io/badge/Website-%231E90FF.svg?logo=google-chrome&logoColor=white)](https://bkportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bakarch) [![Portfolio](https://img.shields.io/badge/Website-%231E90FF.svg?logo=google-chrome&logoColor=white)](https://bkportfolio.netlify.app/)
 
 
 # 💻 Tech Stack:
